@@ -8,7 +8,7 @@ Mañana hablaremos de su vida laboral, que es, vamos, pa mear y no echar gota.
 <<<<<<< HEAD
 Master 1
 
-Master 2 
+Master 2  
 
 Experimento 1
 
