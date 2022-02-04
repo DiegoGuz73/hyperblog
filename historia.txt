@@ -5,8 +5,14 @@ Oh por dios, ya no se acuerda de su nombre el hijo de perra, madre mia, ahora qu
 
 Mañana hablaremos de su vida laboral, que es, vamos, pa mear y no echar gota.
 
+<<<<<<< HEAD
 Master 1
 
 Master 2 
+=======
+Experimento 1
+
+Master 1
+>>>>>>> 293b548 (Exp 1)
 
 El dia de hoy todos estamos de patas cruzadas por ayudar a este chavalete cara de nepe, así que debemos ayudarlo, llevarlo al bosque, evitar que zorro no se lo lleve y jugar a ser dios.
